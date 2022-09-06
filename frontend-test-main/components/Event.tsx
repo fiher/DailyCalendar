@@ -28,7 +28,7 @@ export const Event = ({title, start, end}: EventProps) => {
 
   return (
     <div className={styles.event} style={{gridRowStart: start, gridRowEnd: gridEnd} as React.CSSProperties}>
-      <p className={styles.title}>{title} - {startingHour}:{startingMinutes} - {endingHour}: {endingMinutes}</p>
+      <p className={styles.title}>{title} {startingHour}:{startingMinutes} - {endingHour}: {endingMinutes}</p>
     </div>
   );
 
