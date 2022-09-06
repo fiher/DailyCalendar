@@ -18,15 +18,16 @@ export const DailyCalendar = ({events}: DailyCalendarProps) => {
       <div className={styles.calendar}>
         <div className={styles.timeline}>
           <div className={styles.timeMarker}></div>
-          <div className={styles.timeMarker}>1:00</div>
-          <div className={styles.timeMarker}>2:00</div>
-          <div className={styles.timeMarker}>3:00</div>
-          <div className={styles.timeMarker}>4:00</div>
-          <div className={styles.timeMarker}>5:00</div>
-          <div className={styles.timeMarker}>6:00</div>
-          <div className={styles.timeMarker}>7:00</div>
-          <div className={styles.timeMarker}>8:00</div>
-          <div className={styles.timeMarker}>9:00</div>
+          <div className={styles.timeMarker}>01:00</div>
+          <div className={styles.timeMarker}>02:00</div>
+          <div className={styles.timeMarker}>03:00</div>
+          <div className={styles.timeMarker}>04:00</div>
+          <div className={styles.timeMarker}>05:00</div>
+          <div className={styles.timeMarker}>06:00</div>
+          <div className={styles.timeMarker}>07:00</div>
+          <div className={styles.timeMarker}>08:00</div>
+          <div className={styles.timeMarker}>09:00</div>
+          <div className={styles.timeMarker}>10:00</div>
           <div className={styles.timeMarker}>11:00</div>
           <div className={styles.timeMarker}>12:00</div>
           <div className={styles.timeMarker}>13:00</div>
@@ -40,7 +41,6 @@ export const DailyCalendar = ({events}: DailyCalendarProps) => {
           <div className={styles.timeMarker}>21:00</div>
           <div className={styles.timeMarker}>22:00</div>
           <div className={styles.timeMarker}>23:00</div>
-          <div className={styles.timeMarker}></div>
         </div>
         <div className={styles.eventsGrid}>
           <div>

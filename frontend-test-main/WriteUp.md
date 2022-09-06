@@ -23,4 +23,4 @@ however I decided DailyCalendar is more suitable name since a few can be put nex
 ## Final Version Screenshot 
 (P.S. My screen is 32 inches so the preview doesn't look so nice when small)
 
-![FinalExample](final_example.png)
+![FinalExample](./final_example.png)
