@@ -1,0 +1,16 @@
+.title {
+    margin:0;
+    padding-top: 2px;
+    padding-left: 5px;
+    font-weight: 600;
+    font-size:14px;
+    color: #2580b3;
+}
+
+.event {
+    border-left: 4px solid #1aadf8;
+    border-radius: 5px;
+    background: #b3e1f7;
+    margin-right: 2px;
+    opacity: 80%;
+}
